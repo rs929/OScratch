@@ -1,3 +1,4 @@
 (library
  (name project)
+ (public_name Project)
  (libraries raylib))

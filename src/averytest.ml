@@ -1,3 +1,4 @@
+
 let setup () =
   Raylib.init_window 800 450 "raylib [core] example - basic window";
   Raylib.set_target_fps 60
