@@ -12,4 +12,3 @@ let rec loop () =
       Color.lightgray;
     end_drawing ();
     loop ()
-
